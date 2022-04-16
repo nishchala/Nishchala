@@ -3,7 +3,6 @@ Hi 👋 My name is Nishchala
 
 I am a Graduate student in Computer Science. I like programming and am passionate about learning new software technologies.
 
-* 🧠  I'm currently learning React JS, Typescript, Spring Boot, Docker and Kubernetes
 
 ### Skills
 
